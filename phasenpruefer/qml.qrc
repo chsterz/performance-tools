@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TooltipArea.qml</file>
+        <file>SplitButtons.qml</file>
+        <file>StopButton.qml</file>
+        <file>Tooltip.qml</file>
+    </qresource>
+</RCC>
